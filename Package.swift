@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
           name: "Au10tixProofOfAddressUI",
-          url: "https://github.com/au10tixmobile/Au10tixProofOfAddressUI/archive/refs/tags/4.2.0.zip",
-          checksum: "9969a2e3eb3cdb3bfd7f2921db1c3b84697f82843ccf7acd546703f1d2bf7360"
+          url: "https://github.com/au10tixmobile/Au10tixProofOfAddressUI/archive/refs/tags/4.2.1.zip",
+          checksum: "8320e08a1aaacf2da5be682be51f2638fa5286e6c7383c5dc6e84352b42a5e8a"
         )
     ]
 )
